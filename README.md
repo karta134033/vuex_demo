@@ -1,4 +1,5 @@
-# vue_demo
+# vuex_demo
+This project is built according to Vuex Crash Course video. (https://www.youtube.com/watch?v=5lVQgZzLMHc)
 
 ## Project setup
 ```
